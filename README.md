@@ -3,8 +3,7 @@ A queue system with processing priorities for processing certain information tha
 
 In this project we have 2 files:
 
-main_example.cpp
-worker_queue.h
+main_example.cpp and worker_queue.h
 
 In main_example.cpp, we have an example of using work queue, an executable.
 in worker_queue.h, we have the implementation of work queue
